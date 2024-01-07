@@ -1,0 +1,13 @@
+// Source code is decompiled from a .class file using FernFlower decompiler.
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+class AddMedicine$1 implements ActionListener {
+   AddMedicine$1(AddMedicine this$0) {
+      this.this$0 = this$0;
+   }
+
+   public void actionPerformed(ActionEvent evt) {
+      AddMedicine.access$000(this.this$0, evt);
+   }
+}
